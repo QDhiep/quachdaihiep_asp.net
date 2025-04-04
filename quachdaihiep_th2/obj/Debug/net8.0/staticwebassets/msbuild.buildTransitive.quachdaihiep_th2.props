@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\quachdaihiep_th2.props" />
+</Project>
