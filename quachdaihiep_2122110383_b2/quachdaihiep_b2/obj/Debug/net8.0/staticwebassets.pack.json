@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\10.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\11.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\11.webp",
+      "PackagePath": "staticwebassets\\images\\11.webp"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\12.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\13.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\4.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\5.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\6.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
+    },
+    {
+      "Id": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\wwwroot\\images\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\9.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.quachdaihiep_b2.props",
+      "PackagePath": "build\\quachdaihiep_b2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.quachdaihiep_b2.props",
+      "PackagePath": "buildMultiTargeting\\quachdaihiep_b2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.quachdaihiep_b2.props",
+      "PackagePath": "buildTransitive\\quachdaihiep_b2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.quachdaihiep_b2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.quachdaihiep_b2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

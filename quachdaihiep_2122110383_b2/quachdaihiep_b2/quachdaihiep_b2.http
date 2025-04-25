@@ -1,0 +1,6 @@
+@quachdaihiep_b2_HostAddress = http://localhost:5222
+
+GET {{quachdaihiep_b2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1ECA32C-8152-4BA0-879F-13AACE5925F0}|quachdaihiep_b2\\quachdaihiep_b2.csproj|d:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1ECA32C-8152-4BA0-879F-13AACE5925F0}|quachdaihiep_b2\\quachdaihiep_b2.csproj|solutionrelative:quachdaihiep_b2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1ECA32C-8152-4BA0-879F-13AACE5925F0}|quachdaihiep_b2\\quachdaihiep_b2.csproj|d:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1ECA32C-8152-4BA0-879F-13AACE5925F0}|quachdaihiep_b2\\quachdaihiep_b2.csproj|solutionrelative:quachdaihiep_b2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1ECA32C-8152-4BA0-879F-13AACE5925F0}|quachdaihiep_b2\\quachdaihiep_b2.csproj|d:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1ECA32C-8152-4BA0-879F-13AACE5925F0}|quachdaihiep_b2\\quachdaihiep_b2.csproj|solutionrelative:quachdaihiep_b2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1ECA32C-8152-4BA0-879F-13AACE5925F0}|quachdaihiep_b2\\quachdaihiep_b2.csproj|d:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1ECA32C-8152-4BA0-879F-13AACE5925F0}|quachdaihiep_b2\\quachdaihiep_b2.csproj|solutionrelative:quachdaihiep_b2\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1ECA32C-8152-4BA0-879F-13AACE5925F0}|quachdaihiep_b2\\quachdaihiep_b2.csproj|d:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1ECA32C-8152-4BA0-879F-13AACE5925F0}|quachdaihiep_b2\\quachdaihiep_b2.csproj|solutionrelative:quachdaihiep_b2\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "quachdaihiep_b2\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "quachdaihiep_b2\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:54:12.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\Program.cs",
+              "RelativeDocumentMoniker": "quachdaihiep_b2\\Program.cs",
+              "ToolTip": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\Program.cs",
+              "RelativeToolTip": "quachdaihiep_b2\\Program.cs",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAAAAMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T05:38:20.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "quachdaihiep_b2\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\Controllers\\UserController.cs",
+              "RelativeToolTip": "quachdaihiep_b2\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:00:56.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\Model\\User.cs",
+              "RelativeDocumentMoniker": "quachdaihiep_b2\\Model\\User.cs",
+              "ToolTip": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\Model\\User.cs",
+              "RelativeToolTip": "quachdaihiep_b2\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:52:11.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "quachdaihiep_b2\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\asp.net\\quachdaihiep_2122110383_baocao\\quachdaihiep_2122110383_b2\\quachdaihiep_b2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "quachdaihiep_b2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAAwAYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T03:52:01.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
